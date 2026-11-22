@@ -1,0 +1,12 @@
+# Compiled builds: the .exe goes in a GitHub Release, not in the repo
+dist/
+*.exe
+
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Editors
+.vscode/
+*.bak
